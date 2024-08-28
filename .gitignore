@@ -1,0 +1,4 @@
+*.csv
+!spec/*.csv
+*.pth
+!spec/*.pth
